@@ -9,6 +9,8 @@ defaults:
     values:
       layout: "default"
 
+title: Chris Haslehurst
+description: Thoughts on programming, games, and programming games.
 
 plugins:
   - jekyll-feed
