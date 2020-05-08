@@ -8,5 +8,5 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
   gem 'github-pages'
-  gem 'jekyll-theme-tactile', '~> 0.1.1'
+  gem "minima"
 end
