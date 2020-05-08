@@ -19,3 +19,8 @@ plugins:
 
 theme: minima
 google_analytics: UA-165907236-1
+
+minima:
+  social_links:
+    twitter: chrishaslehurst
+    github: chrishaslehurst
