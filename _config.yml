@@ -1,3 +1,14 @@
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 author:
   name: Chris Haslehurst
   email: "a@b.com"
