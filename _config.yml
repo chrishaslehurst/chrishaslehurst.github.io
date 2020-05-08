@@ -17,8 +17,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: minima
 google_analytics: UA-165907236-1
+
+theme: minima
+show_excerpts: true
 
 minima:
   social_links:
