@@ -18,3 +18,4 @@ plugins:
   - jekyll-seo-tag
 
 theme: jekyll-theme-tactile
+google_analytics: UA-165907236-1
