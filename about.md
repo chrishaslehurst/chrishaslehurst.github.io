@@ -1,7 +1,6 @@
 ---
-layout: default
 title: About
 ---
-# About Page
+# About
 
-This page tells you a bit about me.
+I'm Chris. I'm a Senior Gameplay Programmer at Rocksteady Studios, living in London. 
