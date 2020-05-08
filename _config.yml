@@ -1,13 +1,6 @@
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
+author:
+  name: John Smith
+  email: "john.smith@foobar.com"
 
 title: Chris Haslehurst
 description: Thoughts on programming, games, and programming games.
