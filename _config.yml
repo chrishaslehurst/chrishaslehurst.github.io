@@ -27,3 +27,6 @@ minima:
     twitter: chrishaslehurst
     github: chrishaslehurst
     linkedin: chrishaslehurst
+
+disqus:
+shortname: chrishaslehurst
