@@ -17,5 +17,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: jekyll-theme-tactile
+theme: minima
 google_analytics: UA-165907236-1
