@@ -27,6 +27,7 @@ theme: minima
 show_excerpts: true
 
 minima:
+  skin: solarized-dark 
   social_links:
     twitter: chrishaslehurst
     github: chrishaslehurst
