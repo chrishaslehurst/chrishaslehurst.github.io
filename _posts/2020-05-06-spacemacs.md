@@ -14,9 +14,9 @@ The problem arose when I decided to do some C++ development on a little side pro
 
 I've done most of my C++ programming within that sluggish behemoth of an IDE and didn't fancy living without all those nice features. Especially if any of my side projects became fairly large.
 
-A colleague of mine had been encouraging me to try Vim for a while. I gave it a whirl and liked the modal editing style, but wasn't sure if it could provide all those tasty IDE features (I still don't know, I didn't really pursue Vim!). I've used Emacs a little in the past, the level of customisation and the ecosystem of packages seemed perfect for getting my setup just how i want it. The problem is, I really don't like the keybindings (a lot of holding down keys with your pinky finger seems like a recipe for RSI). After a bit of googling around, I found Spacemacs. Spacemacs is a layer on top of Emacs which gives Vim style editing with Emacs level tinkering, it sounded perfect.
+A colleague of mine had been encouraging me to try Vim for a while. I gave it a whirl and liked the modal editing style, but wasn't sure if it could provide all those tasty IDE features (I still don't know, I didn't really pursue Vim!). I've used Emacs a little in the past, the level of customisation and the ecosystem of packages seemed perfect for getting my setup just how I want it. The problem is, I really don't like the keybindings (a lot of holding down keys with your pinky finger seems like a recipe for RSI). After a bit of googling around, I found Spacemacs. Spacemacs is a layer on top of Emacs which gives Vim style editing with Emacs level tinkering, it sounded perfect.
 
-It was at this point I saw Atila Neves lightning talk from CPPCon 2015 (https://www.youtube.com/watch?v=5FQwQ0QWBTU) on using Emacs as a C++ IDE. I've been playing around with CMake and use it for all my C++ projects now, so the idea of getting all my IDE features in a lightweight(ish) cross platform editor sounded GREAT.
+It was at this point I saw Atila Neves lightning talk from CPPCon 2015 ( https://www.youtube.com/watch?v=5FQwQ0QWBTU ) on using Emacs as a C++ IDE. I've been playing around with CMake and use it for all my C++ projects now, so the idea of getting all my IDE features in a lightweight(ish) cross platform editor sounded GREAT.
 
 So with all this in place, I set out to get Spacemacs working as a C++ IDE. This has not proven to be an easy endeavour so far, and so this blog post is as much road map for confused future travellers as it is breadcrumb trail for me to find my way back if I ever have to do this again.
 
@@ -98,3 +98,9 @@ I've also not even touched visual debugging yet, which as I mentioned above is a
 When I get to these features I'll return to this post and update it, in the hopes of building a proper guide. I just needed to get down what it's taken me a long time to figure out so far.
 
 Let me know how you get on, and if you have any suggestions for improving this setup, or adding to it!
+
+### Update: VS Code
+
+So erm... this is awkward. Visual Studio Code does pretty much everything I wanted from this setup, but it's easier to configure, better documented and has a more modern UI. It's still nice and lightweight and you can even get Vim bindings for it if you want. I decided to stop messing around with spacemacs and actually do some development work, using VS Code.
+
+I'm having a much nicer time.
